@@ -34,3 +34,11 @@ https://app.powerbi.com/view?r=eyJrIjoiNWZhZDUzMDYtZTkxOC00MDEzLWFjYzktMzdlMTY5M
 - Line & Combo Charts: Comparing trends across engagement, views, and impressions for various content formats and daily posting activity.
 
 - Tables & Matrices: Detailed analysis of hourly engagement, hashtag effectiveness, and content category performance.
+
+![Image](https://github.com/user-attachments/assets/4ac0eca0-188b-4e3a-a95a-921af72a48c5)
+
+![Image](https://github.com/user-attachments/assets/ee99bdea-1dc6-4c75-94ea-960d7348ca9b)
+
+![Image](https://github.com/user-attachments/assets/bde21cbc-d141-4b2a-a585-e9061655bad6)
+
+![Image](https://github.com/user-attachments/assets/d4f8ff05-1768-4adc-a53d-bdaff790efd8)
