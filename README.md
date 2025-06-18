@@ -35,10 +35,10 @@ https://app.powerbi.com/view?r=eyJrIjoiNWZhZDUzMDYtZTkxOC00MDEzLWFjYzktMzdlMTY5M
 
 - Tables & Matrices: Detailed analysis of hourly engagement, hashtag effectiveness, and content category performance.
 
-![Image](https://github.com/user-attachments/assets/4ac0eca0-188b-4e3a-a95a-921af72a48c5)
+![Image](https://github.com/user-attachments/assets/3310acf5-a289-4f42-a608-6d74e7eabe08)
 
-![Image](https://github.com/user-attachments/assets/ee99bdea-1dc6-4c75-94ea-960d7348ca9b)
+![Image](https://github.com/user-attachments/assets/c2a61b8a-a16a-404c-8285-052aaec8fb23)
 
-![Image](https://github.com/user-attachments/assets/bde21cbc-d141-4b2a-a585-e9061655bad6)
+![Image](https://github.com/user-attachments/assets/b8e79da0-ff4d-43ca-9568-6604736f9ea1)
 
-![Image](https://github.com/user-attachments/assets/d4f8ff05-1768-4adc-a53d-bdaff790efd8)
+![Image](https://github.com/user-attachments/assets/4d5a70e5-6c84-4d7e-829a-30d9c0b178b2)
