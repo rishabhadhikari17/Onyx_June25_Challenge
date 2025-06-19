@@ -41,4 +41,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNWZhZDUzMDYtZTkxOC00MDEzLWFjYzktMzdlMTY5M
 
 ![Image](https://github.com/user-attachments/assets/9e065b08-2097-47d1-a69a-83113812894f)
 
-![Image](https://github.com/user-attachments/assets/4d5a70e5-6c84-4d7e-829a-30d9c0b178b2)
+![Image](https://github.com/user-attachments/assets/1501bcf5-4264-41d6-a95e-3f07a0ad08ae)
